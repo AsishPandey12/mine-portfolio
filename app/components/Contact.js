@@ -40,7 +40,10 @@ const Contact = () => {
                   className="dark:hidden"
                 />
               </a>
-              <a href="https://x.com" className="contact-button">
+              <a
+                href="https://x.com/Asishpandey2003"
+                className="contact-button"
+              >
                 <img
                   src="/twitter_icon_dark.svg"
                   alt="Github icon"
