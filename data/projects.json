@@ -33,7 +33,7 @@
     "thumbnail": "/Guess-my-number.png",
     "title": "🔢Guess-My-Number",
     "link": {
-      "label": "Guess Number",
+      "label": "GuessNumber.app",
       "url": "https://guess-ifyoucan.netlify.app/"
     },
     "description": "It's an entertaining game where the user guesses a random number. If the guess is correct, they win; otherwise, the game provides hints and instructions to help them find the right answer.",
