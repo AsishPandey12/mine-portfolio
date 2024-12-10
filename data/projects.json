@@ -34,7 +34,7 @@
     "title": "🔢Guess-My-Number",
     "link": {
       "label": "Guess Number",
-      "url": "https://www.example.com"
+      "url": "https://guess-ifyoucan.netlify.app/"
     },
     "description": "It's an entertaining game where the user guesses a random number. If the guess is correct, they win; otherwise, the game provides hints and instructions to help them find the right answer.",
     "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
