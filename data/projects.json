@@ -44,7 +44,7 @@
     "title": "🎲Dice Roll",
     "link": {
       "label": "Dice-Game.com",
-      "url": "https://www.example.com"
+      "url": "https://roll-yourdice.netlify.app/"
     },
     "description": "The Dice Roll is a fun, interactive two-player dice game where players take turns rolling a die to accumulate points. ",
     "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
