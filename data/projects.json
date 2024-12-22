@@ -48,5 +48,15 @@
     },
     "description": "The Dice Roll is a fun, interactive two-player dice game where players take turns rolling a die to accumulate points. ",
     "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
+  },
+  {
+    "thumbnail": "/social.png",
+    "title": "🔗Social-link",
+    "link": {
+      "label": "social-link.com",
+      "url": "https://asish-social.netlify.app/"
+    },
+    "description": "Created a social media landing page that includes links to various social media platforms.",
+    "languageIcons": ["/html_icon.png", "/css_icon.png"]
   }
 ]
