@@ -27,7 +27,7 @@ const Hero = () => {
         <Reveal initialX={-40} delay={0.4}>
           <div className="flex gap-4">
             <a
-              href="/Asish_Pandey.pdf"
+              href="/Asish_pandey.pdf"
               className="self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl"
             >
               <img src="/file_download.svg" alt="Arrow right icon" />
