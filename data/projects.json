@@ -30,6 +30,16 @@
     ]
   },
   {
+    "thumbnail": "/Space_travel.png",
+    "title": "Space Travel",
+    "link": {
+      "label": "Space Travel.com",
+      "url": "https://www.example.com"
+    },
+    "description": "A space travel website providing information on missions and destinations with interactive animations and a responsive design for a seamless user experience",
+    "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
+  },
+  {
     "thumbnail": "/Guess-my-number.png",
     "title": "🔢Guess-My-Number",
     "link": {
