@@ -40,6 +40,16 @@
     "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
   },
   {
+    "thumbnail": "/clouddhub.png",
+    "title": "CloudHub",
+    "link": {
+      "label": "ClouddHub.com",
+      "url": "https://cloudd-hub.netlify.app/"
+    },
+    "description": "Created a CloudHub app with reponsive web design to showcase the product.... .",
+    "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
+  },
+  {
     "thumbnail": "/Guess-my-number.png",
     "title": "🔢Guess-My-Number",
     "link": {
@@ -58,15 +68,5 @@
     },
     "description": "The Dice Roll is a fun, interactive two-player dice game where players take turns rolling a die to accumulate points. ",
     "languageIcons": ["/html_icon.png", "/css_icon.png", "js_icon.png"]
-  },
-  {
-    "thumbnail": "/social.png",
-    "title": "🔗Social-link",
-    "link": {
-      "label": "social-link.com",
-      "url": "https://asish-social.netlify.app/"
-    },
-    "description": "Created a social media landing page that includes links to various social media platforms.",
-    "languageIcons": ["/html_icon.png", "/css_icon.png"]
   }
 ]
