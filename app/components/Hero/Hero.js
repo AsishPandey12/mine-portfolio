@@ -3,8 +3,7 @@ import Reveal from "../Reveal";
 
 const Hero = () => {
   return (
-    <section className="relative flex flex-col-reverse md:flex-row items-center z-20 mx-auto md:gap-[37px] md:mx-10">
-      {/* Text Section */}
+    <section className="relative flex flex-row items-center z-20 mx-auto md:gap-[37px] md:mx-10">
       <div className="flex flex-col gap-[13px] items-center md:gap-[34px] md:my-[58px] md:items-start">
         <Reveal initialX={-25}>
           <h1 className="text-2xl/1 text-center font-semibold block md:text-[40px] md:text-start md:inline">
@@ -14,7 +13,6 @@ const Hero = () => {
             </span>
           </h1>
         </Reveal>
-
         <Reveal initialX={-30} delay={0.2}>
           <p className="text-center text-sm mx-6 md:text-[16px] md:text-start md:mx-0">
             I’m a passionate frontend developer dedicated to crafting
@@ -28,7 +26,6 @@ const Hero = () => {
             performance, usability, and design.
           </p>
         </Reveal>
-
         <Reveal initialX={-40} delay={0.4}>
           <div className="flex gap-4">
             <a
@@ -48,9 +45,7 @@ const Hero = () => {
           </div>
         </Reveal>
       </div>
-
-      {/* Image Section */}
-      <div className="relative group mb-6 md:mb-0">
+      <div className="relative group">
         <Reveal>
           <img
             src="/profile_light_purple.png"
@@ -71,7 +66,7 @@ const Hero = () => {
             alt="Asish profile picture"
             width={357}
             height={417}
-            className="block w-full max-w-[357px] h-auto md:h-[417px] z-10 mr-0 md:mr-[7.7px] my-[6.5px] rounded-md group-hover:scale-[102%] ease-in-out duration-300"
+            className="hidden md:block min-w-[357px] h-[417px] z-10 mr-[7.7px] my-[6.5px] rounded-md group-hover:scale-[102%] ease-in-out duration-300"
           />
         </Reveal>
       </div>
