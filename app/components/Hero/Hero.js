@@ -20,7 +20,7 @@ const Hero = () => {
             a solid foundation in React, HTML, CSS, Tailwind CSS, and
             JavaScript, I focus on building seamless user interfaces that
             enhance user experience. I also bring beginner-level experience in
-            backend development using Node.js, MySQL, MongoDB, and Express.js,
+            backend development using Node.js, SQL, MongoDB, and Express.js,
             enabling me to contribute effectively to full-stack projects. My
             goal is to develop innovative digital solutions that prioritize
             performance, usability, and design.
