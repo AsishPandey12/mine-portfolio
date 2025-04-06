@@ -15,13 +15,15 @@ const Hero = () => {
         </Reveal>
         <Reveal initialX={-30} delay={0.2}>
           <p className="text-center text-sm mx-6 md:text-[16px] md:text-start md:mx-0">
-            I am a passionate frontend developer focused on building responsive
-            and engaging web applications. With a strong foundation in React,
-            HTML, CSS, Tailwind CSS, and JavaScript, I create seamless user
-            interfaces. Additionally, as a beginner in backend development, I
-            have foundational experience with Node.js, MySQL, MongoDB, and
-            Express.js, allowing me to contribute to full-stack projects. My
-            goal is to deliver innovative solutions for better user experiences.
+            I’m a passionate frontend developer dedicated to crafting
+            responsive, intuitive, and visually engaging web applications. With
+            a solid foundation in React, HTML, CSS, Tailwind CSS, and
+            JavaScript, I focus on building seamless user interfaces that
+            enhance user experience. I also bring beginner-level experience in
+            backend development using Node.js, MySQL, MongoDB, and Express.js,
+            enabling me to contribute effectively to full-stack projects. My
+            goal is to develop innovative digital solutions that prioritize
+            performance, usability, and design.
           </p>
         </Reveal>
         <Reveal initialX={-40} delay={0.4}>
