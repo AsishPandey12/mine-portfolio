@@ -15,32 +15,28 @@ const Hero = () => {
         </Reveal>
         <Reveal initialX={-30} delay={0.2}>
           <p className="text-center text-sm mx-6 md:text-[16px] md:text-start md:mx-0">
-            I’m a passionate frontend developer dedicated to crafting
-            responsive, intuitive, and visually engaging web applications. With
-            a solid foundation in React, HTML, CSS, Tailwind CSS, and
-            JavaScript, I focus on building seamless user interfaces that
-            enhance user experience. I also bring beginner-level experience in
-            backend development using Node.js, SQL, MongoDB, and Express.js,
-            enabling me to contribute effectively to full-stack projects. My
-            goal is to develop innovative digital solutions that prioritize
-            performance, usability, and design.
+            Passionate about building responsive, user-friendly web applications
+            with React, Tailwind, and JavaScript. I also have beginner-level
+            experience with Node.js, Express, SQL, and MongoDB, enabling me to
+            support full-stack development. Driven to create innovative and
+            accessible digital experiences.
           </p>
         </Reveal>
         <Reveal initialX={-40} delay={0.4}>
           <div className="flex gap-4">
-            <a
-              href="/Asish_pandey_.pdf"
-              className="self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl"
-            >
-              <img src="/file_download.svg" alt="Arrow right icon" />
-              Resume
-            </a>
             <a
               href="mailto:asishpandey9163@gmail.com"
               className="self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl"
             >
               Let's Connect
               <img src="/arrow_right_icon.svg" alt="Arrow right icon" />
+            </a>
+            <a
+              href="/Asish_pandey_.pdf"
+              className="self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl"
+            >
+              <img src="/file_download.svg" alt="Arrow right icon" />
+              Resume
             </a>
           </div>
         </Reveal>
