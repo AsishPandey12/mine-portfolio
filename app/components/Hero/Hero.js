@@ -32,7 +32,7 @@ const Hero = () => {
               <img src="/arrow_right_icon.svg" alt="Arrow right icon" />
             </a>
             <a
-              href="/Asish_pandey_.pdf"
+              href="/Asish Pandey_resume_image.pdf"
               className="self-center bg-primary text-white p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl"
             >
               <img src="/file_download.svg" alt="Arrow right icon" />
