@@ -1,10 +1,28 @@
 [
   {
+    "thumbnail": "/yatrastay.png",
+    "title": "🌏YatraStay",
+    "link": {
+      "label": "YatraStay.com",
+      "url": "https://yatrastay.onrender.com/listings"
+    },
+    "description": "YatraStay is a hotel booking platform designed to help users find and reserve affordable hotels across India. With a clean interface and smart search features, it makes discovering comfortable stays near popular destinations quick and hassle-free.",
+    "languageIcons": [
+      "/html_icon.png",
+      "/css_icon.png",
+      "js_icon.png",
+      "ejs.png",
+      "node-js.png",
+      "express-js.png",
+      "mongo-db.png"
+    ]
+  },
+  {
     "thumbnail": "/Movie_Munch.png",
     "title": "🎥Movie Munch",
     "link": {
       "label": "Moviemunch.com",
-      "url": "https://www.example.com"
+      "url": "https://movie-munch.netlify.app/"
     },
     "description": "Developed a web application named Movie Munch whose features include an extensive movie database, personalized watchlist management and detailed movie information",
     "languageIcons": [
@@ -15,13 +33,13 @@
     ]
   },
   {
-    "thumbnail": "/weather.png",
-    "title": "☁️Weather app",
+    "thumbnail": "/wordwhiz.png",
+    "title": "Wordwhiz",
     "link": {
-      "label": "ClassyWeather.com",
-      "url": "https://www.example.com"
+      "label": "Wordwhiz.com",
+      "url": "https://wordswhiz.netlify.app/"
     },
-    "description": "Classy Weather is a sleek and user-friendly weather application that provides real-time weather updates for any location.",
+    "description": "WordWhiz is a fun and interactive word-guessing game where players test their vocabulary and quick thinking by guessing random words within limited attempts. Challenge yourself, improve your word skills, and become a true Word Whiz!",
     "languageIcons": [
       "/html_icon.png",
       "/css_icon.png",
